@@ -15,7 +15,7 @@
   ],
   "author": "atbrinkman",
   "license": "Beerware",
-  "description": "A bot that notifies of joining voice chatters.",
+  "description": "A Discord bot that notifies of joining voice chatters.",
   "dependencies": {
     "discord.js": "^14.16.3",
     "lodash.isempty": "^4.4.0",
