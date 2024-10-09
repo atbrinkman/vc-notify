@@ -1,7 +1,7 @@
 build/
 coverage/
 npm-debug.log
-
+config.json
 package-lock.json
 
 node_modules/
